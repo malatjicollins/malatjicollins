@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head><title>LIFE CRAFT- THE MASTER </title></head>
+<body>
+<header>
+
+</header>
+<hr>
+<nav>
+<table border="1">
+<tr>
+<td>Home</td>
+<td>About</td>
+<td>CONTACTS us</td>
+<td>Career</td>
+<td>industry solution</td>
+<td>digital business</td>
+</tr>
+</nav>
+</body>
+
